@@ -3,6 +3,8 @@
 The exercises was made for upgrading and exercising my skills in classes in JS. I have took the exercises from 
 [w3resource](https://www.w3resource.com/javascript-exercises/oop/index.php).
 
+The exercises in order are: 
+
 **1. Person Class with Details**  
 Write a JavaScript program to create a class called "Person" with properties for name, age and country. Include a method to display the person's details. Create two instances of the 'Person' class and display their details.
 
